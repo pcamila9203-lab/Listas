@@ -36,3 +36,4 @@ notas = [63.0, 65.0, 65.0]
 
 print(notas.index(65)) #muestra la posicion 
 print(ramos[notas.index(max(notas))]) #muestra la posicion de la nota y el nombre del ramos 
+print("Paula ")
