@@ -6,7 +6,7 @@ asistencia.append(nombre)
 print("Asistieron",len(asistencia), "estudiante")
 asistencia.sort()
 print(asistencia)
-
+print("probando")
 
 
 # a) Agregue un nuevo estudiante ingresado por teclado al final de la lista.
